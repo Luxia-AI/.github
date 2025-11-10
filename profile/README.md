@@ -1,12 +1,14 @@
-## Hi there 👋
 
-<!--
+## 🧩 System Architecture Design
 
-**Here are some ideas to get you started:**
+<img src=""/>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Deployment Overview
+
+
+## 📚 Documentation
+
+All research papers, diagrams, and proposal documents are maintained in the [📘 `docs`](https://github.com/Luxia-AI/docs) repository.  
+Architecture diagrams and detailed methodology are available under `/docs/`.
+
+**© 2025 Team Luxia AI — “Truth through Knowledge and Retrieval.”**
